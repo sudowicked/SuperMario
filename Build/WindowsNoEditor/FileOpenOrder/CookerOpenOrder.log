@@ -1,0 +1,603 @@
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Main.uasset" 0
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/MarioCursor.uasset" 1
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/Cursor_Widget.uasset" 2
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sequences/Death_Sequence.uasset" 3
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sequences/EnterDungeonSequenceDungeon.uasset" 4
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sequences/ExitDungeonSequenceMain.uasset" 5
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sequences/ExitLevel1Sequence.uasset" 6
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sequences/FirstLevelSequence.uasset" 7
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sequences/Level_2/EnterLevel2FromPipeSequence.uasset" 8
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sequences/Level_2/EnterLevel2Sequence.uasset" 9
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sequences/TransitionLevel/TransitionLevelIntroSequence.uasset" 10
+"../../../../../Documents/Unreal Projects/SuperMario/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 11
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 12
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 13
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 14
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 15
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 16
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 17
+"../../../Engine/Content/BasicShapes/Cone.uasset" 18
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 19
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 20
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 21
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 22
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 23
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 24
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 25
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 26
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 27
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 28
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 29
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 30
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 31
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 32
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 33
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 34
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 35
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 36
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 37
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 38
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 39
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 40
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 41
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 42
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 43
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 44
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 45
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 46
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 47
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 48
+"../../../Engine/Content/EditorResources/S_Note.uasset" 49
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 50
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 51
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 52
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 53
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 54
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 55
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 56
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 57
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 58
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 59
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 61
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 62
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 63
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 64
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 65
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 66
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 67
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 68
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 69
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 70
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 71
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 72
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 73
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 74
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 75
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 76
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 77
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 78
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 79
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 80
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 81
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 82
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 83
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 84
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 85
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 86
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 87
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 88
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 89
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 90
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 91
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 92
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 93
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 94
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 95
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 96
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 97
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 98
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 99
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 100
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 101
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 102
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 103
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 104
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 105
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 106
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 107
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 108
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 109
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 110
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 111
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 112
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 113
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 114
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 115
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 116
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 117
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 118
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 119
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 120
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 121
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 122
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 123
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 124
+"../../../Engine/Content/EngineSounds/Master.uasset" 125
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 126
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 127
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 128
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 129
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 130
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 131
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 132
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 133
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 134
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 135
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 136
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 137
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 138
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 139
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 140
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 141
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 142
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 143
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 144
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 145
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 146
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 147
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 148
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 149
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 150
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 151
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 152
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 153
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 154
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 155
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 156
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 157
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 158
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 159
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 160
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 161
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 162
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 163
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 164
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 165
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 166
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 167
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 168
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 169
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 170
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 171
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 172
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 173
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 174
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 175
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 176
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 177
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 178
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 179
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 180
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 181
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 182
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 183
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 184
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 185
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 186
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 187
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 188
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 189
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 190
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 191
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 192
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 193
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 194
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 195
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/UndergroundTheme.uasset" 196
+"../../../Engine/Content/BasicShapes/Plane.uasset" 197
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 198
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 199
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/FireBall/FireBall_Materia.uasset" 200
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/FireBall/Gradient.uasset" 201
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/FireBall/FlameSprites.uasset" 202
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 203
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 204
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 205
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 206
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 207
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 208
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 209
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 210
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/FireBall/Fire_Material.uasset" 211
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/FireBall/BounceFireBall.uasset" 212
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/FireBall/FireBall.uasset" 213
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 214
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/CoinSound.uasset" 215
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MarioGameInstance.uasset" 216
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/MenuSelectSound.uasset" 217
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/MenuHoverSound.uasset" 218
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/ButtonWidgets/Resume_Button.uasset" 219
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/ButtonWidgets/Exit_Button.uasset" 220
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/ExitSceneBG.uasset" 221
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/Menu_Widget.uasset" 222
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/ExitSceneWidget.uasset" 223
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/ResumeButtonHovered.uasset" 224
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/ResumeButton.uasset" 225
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/ExitTextHovered.uasset" 226
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/ExitText.uasset" 227
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/PauseMenu_Widget.uasset" 228
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Mario_PhysicsAsset.uasset" 229
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 230
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Mario_Skeleton.uasset" 231
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Textures/MarioEye_Alb_0.uasset" 232
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Materials/MarioEye_Material.uasset" 233
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Textures/Mario_Alb.uasset" 234
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Materials/MarioBody_Material.uasset" 235
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Mario_Mesh.uasset" 236
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Textures/Mario_Alb_Cook.uasset" 237
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Materials/MarioBody_MaterialCook.uasset" 238
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 239
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 240
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Animations/Victory_Idle.uasset" 241
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Animations/Offensive_Idle.uasset" 242
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Materials/MarioEyeCook_Material.uasset" 243
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Animations/Running.uasset" 244
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Animations/Idle.uasset" 245
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Animations/Brutal_To_Happy_Walking.uasset" 246
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Animations/Mario_Blend.uasset" 247
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Animations/Jump.uasset" 248
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Animations/MarioAnim_BP.uasset" 249
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/PipeEnterExit.uasset" 250
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/JumpSound.uasset" 251
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/FireballSound.uasset" 252
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Textures/MarioEye_Alb_White.uasset" 253
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Materials/MarioEyeRed_Material.uasset" 254
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Materials/MarioEyeGreen_Material.uasset" 255
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Textures/MarioEye_Alb_Yellow.uasset" 256
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Materials/MarioEyeBlack_Material.uasset" 257
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Textures/Mario_Alb_Red.uasset" 258
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Materials/MarioBodyRed_Material.uasset" 259
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Textures/Mario_Alb_Green.uasset" 260
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Materials/MarioBodyGreen_Material.uasset" 261
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Textures/Mario_Alb_Black.uasset" 262
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Materials/MarioBodyBlack_Material.uasset" 263
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/LevelCompleteSound.uasset" 264
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/FlagSound.uasset" 265
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/FlagPole/20_-_Default_001.uasset" 266
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/FlagPole/19_-_Default.uasset" 267
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/FlagPole/Pole.uasset" 268
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/FlagPole/Flagpole.uasset" 269
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/FlagPole/15_-_Default_001.uasset" 270
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/FlagPole/Flag.uasset" 271
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/FlagPole/FlagPole_BP.uasset" 272
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 273
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Animations/Kicking.uasset" 274
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Animations/Hit_To_Head.uasset" 275
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Animations/Flag_Interaction.uasset" 276
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Animations/Death.uasset" 277
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Animations/Backflip.uasset" 278
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Mario_BP.uasset" 279
+"../../../../../Documents/Unreal Projects/SuperMario/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 280
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_3Color.uasset" 281
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Pipe/Pipe_Material.uasset" 282
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Pipe/Pipe.uasset" 283
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Pipe/Pipe_BP.uasset" 284
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Pipe/NoCollisionPipe_BP.uasset" 285
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sequences/TransitionLevel/EnterLevel2FromTransitionSequence.uasset" 286
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sequences/Level_2/ExitLevel2Sequence.uasset" 287
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sequences/ExitDungeonSequencee.uasset" 288
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Pipe/DungeonExitPipe_BP.uasset" 289
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/TerrainBox/Terrain_Texture.uasset" 290
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/TerrainBox/Terrain_material.uasset" 291
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/TerrainBox/TerrainBlue_Texture.uasset" 292
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/TerrainBox/BlueTerrain_Material.uasset" 293
+"../../../Engine/Content/BasicShapes/Cube.uasset" 294
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/TerrainBox/Terrain_BP.uasset" 295
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/BumpSound.uasset" 296
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/BrickBox/Brick_Material.uasset" 297
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/BrickBox/02_-_Default.uasset" 298
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/BrickBox/BrickBlock_StaticMesh.uasset" 299
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/BrickBox/BrickBlue_Material.uasset" 300
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/BreakBlockSound.uasset" 301
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/BrickBox/BrickBlock_StaticMesh_Destructible.uasset" 302
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/BrickBox/DestructibleBrickBlock_BP.uasset" 303
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/StompSound.uasset" 304
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Textures/kur_body_blue.uasset" 305
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Materials/body_b_004Blue.uasset" 306
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Materials/body_a_004Blue.uasset" 307
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Koopa_Skeleton.uasset" 308
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Animations/Koopa_Walk.uasset" 309
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Animations/Koopa_Anim_BP.uasset" 310
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Koopa_PhysicsAsset.uasset" 311
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Textures/pc10_body_m1.uasset" 312
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Materials/G__Wii_noesisv3851_pc10_body_m1_png.uasset" 313
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Koopa.uasset" 314
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Materials/07_-_Default.uasset" 315
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Materials/03_-_Default.uasset" 316
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Materials/02_-_Default.uasset" 317
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Koopa_Shell_Skeleton.uasset" 318
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Koopa_Shell_PhysicsAsset.uasset" 319
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Materials/09_-_Default.uasset" 320
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Materials/08_-_Default.uasset" 321
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Koopa_Shell.uasset" 322
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Animations/Koopa_Shell_Spin_Anim.uasset" 323
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Koopa_Shell_BP.uasset" 324
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Koopa_BP.uasset" 325
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/KoopaBoundry.uasset" 326
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Goomba_Skeleton.uasset" 327
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Animations/Goomba_Death.uasset" 328
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Animations/Goomba_Walk.uasset" 329
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Animations/Goomba_Anim_BP.uasset" 330
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Goomba_PhysicsAsset.uasset" 331
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Textures/kur_body_ncl1_2.uasset" 332
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Materials/ref_b_004.uasset" 333
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Textures/kur_body_ncl1_1.uasset" 334
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Materials/body_b_004.uasset" 335
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Textures/kur_body.uasset" 336
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Materials/body_a_004.uasset" 337
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Goomba.uasset" 338
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Goomba/Goomba_BP.uasset" 339
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/BrickBox/BrickBlock_BP.uasset" 340
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Coin/Mario_Coin_Skeleton.uasset" 341
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Coin/Mario_Coin_Rotate.uasset" 342
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Coin/Mario_Coin_Anim_BP.uasset" 343
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Coin/Mario_Coin_PhysicsAsset.uasset" 344
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Coin/Mario_Coin_Roughness.uasset" 345
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Coin/Mario_Coin_Normal.uasset" 346
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Coin/Mario_Coin_Color.uasset" 347
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Coin/Mario_Coin_Material.uasset" 348
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Coin/Mario_Coin.uasset" 349
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Coin/Mario_Coin_BP.uasset" 350
+"../../../../../Documents/Unreal Projects/SuperMario/Content/HUD/SuperMario256.uasset" 351
+"../../../../../Documents/Unreal Projects/SuperMario/Content/HUD/SuperMario256_Font.uasset" 352
+"../../../../../Documents/Unreal Projects/SuperMario/Content/HUD/GameplayHUD.uasset" 353
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Levels/Level1_Dungeon.umap" 354
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/GameOverSound.uasset" 355
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/DeathSound.uasset" 356
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/MarioBoundry.uasset" 357
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Lift/Roughness_2K_scksebop.uasset" 358
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Lift/Normal_2K_scksebop.uasset" 359
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Lift/Lift_Texture.uasset" 360
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 361
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MSPresets/MSTextures/Metalness.uasset" 362
+"../../../Engine/Content/EngineResources/Black.uasset" 363
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 364
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 365
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MSPresets/MS_DefaultMaterial/Functions/MF_Transmission.uasset" 366
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 367
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling.uasset" 368
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 369
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments.uasset" 370
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling.uasset" 371
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset" 372
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Lift/Scratched_Painted_Iron_scksebop_inst.uasset" 373
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Lift/Material_001.uasset" 374
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Lift/Lift.uasset" 375
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Lift/UpLift.uasset" 376
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Lift/DownLift.uasset" 377
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Plant/Plant_Skeleton.uasset" 378
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Plant/Plant_Animation.uasset" 379
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Plant/Plant_PhysicsAsset.uasset" 380
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Plant/Piranha_Plant_tex.uasset" 381
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Plant/09_-_Default.uasset" 382
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Plant/08_-_Default.uasset" 383
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Plant/07_-_Default.uasset" 384
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Plant/02_-_Default.uasset" 385
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Plant/Plant.uasset" 386
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Plant/Plant_BP.uasset" 387
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Pipe/Plant_Pipe_BP.uasset" 388
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Pipe/NewFolder/PipeArrow_PhysicsAsset.uasset" 389
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Pipe/NewFolder/PipeArrow_Skeleton.uasset" 390
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Pipe/NewFolder/Arrow5Rough.uasset" 391
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Pipe/NewFolder/Arrow5Normal.uasset" 392
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Pipe/NewFolder/Arrow5.uasset" 393
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Pipe/NewFolder/PipeArrow.uasset" 394
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Pipe/NewFolder/Arrow_Anima.uasset" 395
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sequences/Level_2/EnterDungeonLevel2Sequence.uasset" 396
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sequences/EnterDungeonSequenceMain.uasset" 397
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Pipe/Plant_DungeonEnterPipe_BP.uasset" 398
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/StairsBox/Stairs_Texture.uasset" 399
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/StairsBox/Stairs_Material.uasset" 400
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/StairsBox/StairsBlue_Texture.uasset" 401
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/StairsBox/StairsBlue_Material.uasset" 402
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/StairsBox/Stairs_BP.uasset" 403
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/MysteryBox/SMO_MysteryBlock_SHD_D.uasset" 404
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/MysteryBox/SMO_MysteryBlock_SHD.uasset" 405
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/MysteryBox/Mystery_Box.uasset" 406
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/MysteryBox/Empty_Box_Texture.uasset" 407
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/MysteryBox/Empty_Box_Material.uasset" 408
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/MysteryBox/MysteryBoxCoin_BP.uasset" 409
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/BrickBox/BrickBlockCoin_BP.uasset" 410
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Mushroom/lambert3SG_albedo.uasset" 411
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Mushroom/Material_004.uasset" 412
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Mushroom/lambert4SG_albedo_ncl1_1.uasset" 413
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Mushroom/Material_003.uasset" 414
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Mushroom/lambert4SG_albedo.uasset" 415
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Mushroom/Material_002.uasset" 416
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Mushroom/lambert2SG_albedo.uasset" 417
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Mushroom/Material_001.uasset" 418
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Mushroom/Mushroom.uasset" 419
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/PowerUpSound.uasset" 420
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Mushroom/Mushroom_BP.uasset" 421
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Flower/09_-_Default.uasset" 422
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Flower/08_-_Default.uasset" 423
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Flower/07_-_Default.uasset" 424
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Flower/03_-_Default.uasset" 425
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Flower/02_-_Default.uasset" 426
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Flower/FireFlower.uasset" 427
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Flower/FireFlower_BP.uasset" 428
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/PowerUpAppearingSound.uasset" 429
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/MysteryBox/MysteryBoxPowerup_BP.uasset" 430
+"../../../../../Documents/Unreal Projects/SuperMario/Content/NewFolder/Widgets/Menu_Widget.uasset" 431
+"../../../../../Documents/Unreal Projects/SuperMario/Content/HUD/Pixeboy-z8XGD.uasset" 432
+"../../../../../Documents/Unreal Projects/SuperMario/Content/HUD/Pixeboy-z8XGD_Font.uasset" 433
+"../../../../../Documents/Unreal Projects/SuperMario/Content/HUD/GameOver_Widget.uasset" 434
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Levels/Level2.umap" 435
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/MarioTheme.uasset" 436
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 437
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 438
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 439
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 440
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Castle/03_-_Default.uasset" 441
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Castle/02_-_Default.uasset" 442
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Castle/01_-_Default.uasset" 443
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Castle/Castle_Small.uasset" 444
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Castle/Castle_BP.uasset" 445
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 446
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 447
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 448
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 449
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 450
+"../../../../../Documents/Unreal Projects/SuperMario/Content/HUD/GameFinish_Widget.uasset" 451
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Levels/Level2Finish.umap" 452
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Levels/Level2_Dungeon.umap" 453
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/StarTheme.uasset" 454
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Pipe/DungeonEnterPipe_BP.uasset" 455
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Star/Material_003.uasset" 456
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Star/Eye.uasset" 457
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Star/Material.uasset" 458
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Star/Star.uasset" 459
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Objects/Star/Star_BP.uasset" 460
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Map/Boxes/BrickBox/BrickBlockStar_BP.uasset" 461
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/Instructions.uasset" 462
+"../../../../../Documents/Unreal Projects/SuperMario/Content/NewFolder/Images/Instructions.uasset" 463
+"../../../../../Documents/Unreal Projects/SuperMario/Content/HUD/Instructions_Widget.uasset" 464
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Menu_BP.uasset" 465
+"../../../../../Documents/Unreal Projects/SuperMario/Content/NewFolder/Menu_BP.uasset" 466
+"../../../../../Documents/Unreal Projects/SuperMario/Content/HUD/Instructions_BP.uasset" 467
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Levels/Main_BuiltData.uasset" 468
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Levels/Main.umap" 469
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/ExtractColor.uasset" 470
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/TileMirrorAxis.uasset" 471
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/UVEdit.uasset" 472
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 473
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Material.uasset" 474
+"../../../../../Documents/Unreal Projects/SuperMario/Content/StarterContent/Architecture/Wall_400x400.uasset" 475
+"../../../../../Documents/Unreal Projects/SuperMario/Content/StarterContent/Materials/M_Basic_Floor.uasset" 476
+"../../../../../Documents/Unreal Projects/SuperMario/Content/StarterContent/Architecture/Floor_400x400.uasset" 477
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sound_Effects/MenuTheme.uasset" 478
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/Old_Wooden_Window_vmfwcabdw/Roughness_2K_vmfwcabdw.uasset" 479
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/Old_Wooden_Window_vmfwcabdw/Normal_2K_LOD0_vmfwcabdw.uasset" 480
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/Old_Wooden_Window_vmfwcabdw/Albedo_2K_vmfwcabdw.uasset" 481
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/Old_Wooden_Window_vmfwcabdw/Old_Wooden_Window_vmfwcabdw_inst.uasset" 482
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/Old_Wooden_Window_vmfwcabdw/Old_Wooden_Window_LOD0_vmfwcabdw.uasset" 483
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/ButtonWidgets/Settings/Medium_Button.uasset" 484
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/ButtonWidgets/Settings/Low_Button.uasset" 485
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/ButtonWidgets/Settings/High_Button.uasset" 486
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/ButtonWidgets/Settings/EpIc_Button.uasset" 487
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/ButtonWidgets/Back_Button.uasset" 488
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/Settings/MediumHovered.uasset" 489
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/Settings/Medium.uasset" 490
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/Settings/LowHovered.uasset" 491
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/Settings/Low.uasset" 492
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/Settings/HighHovered.uasset" 493
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/Settings/High.uasset" 494
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/Settings/EpicHovered.uasset" 495
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/Settings/Epic.uasset" 496
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/Options_BG.uasset" 497
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/BackTextHovered.uasset" 498
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/BackText.uasset" 499
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/Options_Widget.uasset" 500
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/ButtonWidgets/Play_Button.uasset" 501
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/ButtonWidgets/Options_Button.uasset" 502
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/ButtonWidgets/Credits_Button.uasset" 503
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/PlayTextHovered.uasset" 504
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/PlayText.uasset" 505
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/OptionsTextHovered.uasset" 506
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/OptionsText.uasset" 507
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/MainMenuBG.uasset" 508
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/CreditsTextHovered.uasset" 509
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/CreditsText.uasset" 510
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Sequences/TransitionToLevel1Sequence.uasset" 511
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/MainMenu_Widget.uasset" 512
+"../../../../../Documents/Unreal Projects/SuperMario/Content/StarterContent/Textures/T_Lamp_N.uasset" 513
+"../../../../../Documents/Unreal Projects/SuperMario/Content/StarterContent/Textures/T_Lamp_M.uasset" 514
+"../../../../../Documents/Unreal Projects/SuperMario/Content/StarterContent/Props/Materials/M_Lamp.uasset" 515
+"../../../../../Documents/Unreal Projects/SuperMario/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 516
+"../../../../../Documents/Unreal Projects/SuperMario/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 517
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/MainMenu_GameMode.uasset" 518
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Images/CreditsBG.uasset" 519
+"../../../../../Documents/Unreal Projects/SuperMario/Content/MenuMisc/NewFolder/Widgets/Credits_Widget.uasset" 520
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_TV_M.uasset" 521
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/M_TV.uasset" 522
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Meshes/SM_TV.uasset" 523
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Table_Lamp_N.uasset" 524
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Table_Lamp_M_R_AO.uasset" 525
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Table_Lamp_A.uasset" 526
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/T_Table_Lamp.uasset" 527
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Meshes/SM_Table_Lamp.uasset" 528
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/M_Picture_frame.uasset" 529
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Art_1.uasset" 530
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/M_Picture.uasset" 531
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Meshes/SM_Picture.uasset" 532
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Wood_R.uasset" 533
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Wood_N.uasset" 534
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Wood_A.uasset" 535
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/DetailTexturing.uasset" 536
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_NormalPlaceHolder.uasset" 537
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/M_Modern_Table_top.uasset" 538
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/M_Modern_Table_bottom.uasset" 539
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/M_Chrome.uasset" 540
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Meshes/SM_Modern_Table.uasset" 541
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Sofa_1_N.uasset" 542
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Sofa_1_mask.uasset" 543
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Sofa_1_AO.uasset" 544
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Noise.uasset" 545
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Fabric_pillow_N.uasset" 546
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Fabric_pillow_a.uasset" 547
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 548
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 549
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 550
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_WhitePlaceHolder.uasset" 551
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/MM_Modern_Sofa.uasset" 552
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Fabric_N.uasset" 553
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Fabric_A.uasset" 554
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/MI_Modern_Sofa_1.uasset" 555
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Meshes/SM_Modern_Sofa_1.uasset" 556
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Elegant_chair_n.uasset" 557
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Elegant_chair_m_r_ao.uasset" 558
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Elegant_chair_a.uasset" 559
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/M_Elegant_chair.uasset" 560
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Meshes/SM_Elegant_chair_ottoman.uasset" 561
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Meshes/SM_Elegant_chair.uasset" 562
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Coffee_Table_M.uasset" 563
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/M_Coffee_Table.uasset" 564
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Meshes/SM_Coffee_Table.uasset" 565
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Classic_Picture_n.uasset" 566
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Classic_Picture_M_R_AO.uasset" 567
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Classic_Picture_A.uasset" 568
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/M_Classic_Picture.uasset" 569
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Art_2.uasset" 570
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/M_Art_2.uasset" 571
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Meshes/SM_Classic_Picture.uasset" 572
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Classic_Commode_N.uasset" 573
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Classic_Commode_M_R_AO.uasset" 574
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Textures/T_Classic_Commode_A.uasset" 575
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/M_Classic_Commode.uasset" 576
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Meshes/SM_Classic_Commode_2.uasset" 577
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/M_Metall.uasset" 578
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/M_Bed_Lamp_Glowing_Part.uasset" 579
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Materials/M_Bed_Lamp_3.uasset" 580
+"../../../../../Documents/Unreal Projects/SuperMario/Content/FreeFurniturePack/Meshes/SM_Bed_lamp_3.uasset" 581
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/Animations/SittingKoopa.uasset" 582
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Koopa/KoopaLean_BP.uasset" 583
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Animations/Sitting_Idle.uasset" 584
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Mario/Animations/SittingMario_BP.uasset" 585
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Luigi/Luigi_PhysicsAsset.uasset" 586
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Luigi/MarioHandNew_alb.uasset" 587
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Luigi/MarioHandMat00.uasset" 588
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Luigi/LuigiEye_alb.uasset" 589
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Luigi/LuigiEyeMat00.uasset" 590
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Luigi/LuigiFace_alb.uasset" 591
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Luigi/LuigiBodyMat00_001.uasset" 592
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Luigi/LuigiBodyFix_alb.uasset" 593
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Luigi/LuigiBodyMat00.uasset" 594
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Luigi/Luigi_Skeleton.uasset" 595
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Luigi/Luigi.uasset" 596
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Luigi/Bored.uasset" 597
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Characters/Luigi/SittingLuigi_BP.uasset" 598
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Levels/Menu_Level.umap" 599
+"../../../../../Documents/Unreal Projects/SuperMario/Content/Levels/TransitionToLevel2.umap" 600
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 601
+"../../../Engine/Content/Maps/Entry.umap" 602
