@@ -1,5 +1,7 @@
 # SuperMario
 
-Developed with Unreal Engine 4
+Developed with Unreal Engine 4.
 
-Find it [here](https://jonwicked.itch.io/super-mario-remake)
+<em> Note: final changes in final-version branch. </em>
+
+Check out the itchio page [here](https://jonwicked.itch.io/super-mario-remake).
